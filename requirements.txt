@@ -1,0 +1,49 @@
+# https://python.langchain.com/api_reference/reference.html
+
+## Base Packages
+# Core : 0.3.76
+langchain-core
+
+#Langchain : 0.3.27
+langchain
+
+#Text Splitters : 0.3.11
+langchain-text-splitters
+
+#Community : 0.3.29
+langchain-community
+
+#Experimental
+#langchain-experimental
+
+#Standard Tests
+#langchain-tests
+
+##Integrations
+#OpenAI : 0.3.33
+langchain-openai
+
+#Anthropic
+#langchain-Anthropic
+
+#Google Vertex AI
+#langchain-google-vertexai
+
+#AWS
+#langchain-AWS
+
+#Huggingface
+#langchain-Huggingface
+
+#MistralAI
+#langchain-mistralai
+
+#Others
+python-dotenv # 1.1.1
+
+
+#Jupyter Kernel : 6.30.1
+ipykernel
+
+#langgraph : 0.6.7 
+langgraph
