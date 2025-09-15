@@ -13,8 +13,8 @@ langchain-text-splitters
 #Community : 0.3.29
 langchain-community
 
-#Experimental
-#langchain-experimental
+#Experimental : 0.3.4
+langchain-experimental
 
 #Standard Tests
 #langchain-tests
@@ -47,3 +47,12 @@ ipykernel
 
 #langgraph : 0.6.7 
 langgraph
+
+#Pandas : 2.3.2
+Pandas
+
+#Numpy : 2.3.3 (PreInstalled through langchain-community)
+#Numpy
+
+#Tabulate :0.9.0
+tabulate

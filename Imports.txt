@@ -1,0 +1,49 @@
+https://typing.python.org/en/latest/spec/typeddict.html
+from typing import TypedDict
+
+
+https://langchain-ai.lang.chat/langgraphjs/reference/classes/langgraph.StateGraph.html
+https://langchain-ai.lang.chat/langgraphjs/reference/variables/langgraph.START.html
+https://langchain-ai.lang.chat/langgraphjs/reference/variables/langgraph.END.html
+from langgraph.graph import StateGraph,START, END
+
+https://python.langchain.com/api_reference/core/prompts/langchain_core.prompts.prompt.PromptTemplate.html
+from langchain_core.prompts import PromptTemplate
+
+https://python.langchain.com/api_reference/langchain/chat_models/langchain.chat_models.base.init_chat_model.html#langchain.chat_models.base.init_chat_model
+from langchain.chat_models import init_chat_model
+
+
+https://python.langchain.com/api_reference/core/messages/langchain_core.messages.human.HumanMessage.html#langchain_core.messages.human.HumanMessage
+from langchain_core.messages import HumanMessage
+
+from langchain_core.runnables.graph
+https://python.langchain.com/api_reference/core/runnables/langchain_core.runnables.graph.MermaidDrawMethod.html
+
+
+from IPython.display import display, Image
+https://ipython.readthedocs.io/en/latest/api/generated/IPython.display.html
+
+
+https://pypi.org/project/python-dotenv/
+from dotenv import load_dotenv
+
+https://python.langchain.com/api_reference/openai/chat_models.html
+from langchain_openai import ChatOpenAI
+
+
+https://python.langchain.com/api_reference/core/runnables/langchain_core.runnables.history.RunnableWithMessageHistory.html 
+from langchain_core.runnables.history import RunnableWithMessageHistory
+
+https://python.langchain.com/api_reference/langchain/memory.html
+from langchain.memory import ChatMessageHistory
+
+https://python.langchain.com/api_reference/core/chat_history/langchain_core.chat_history.BaseChatMessageHistory.html#langchain_core.chat_history.BaseChatMessageHistory
+from langchain_core.chat_history import BaseChatMessageHistory
+
+
+https://python.langchain.com/api_reference/langchain/agents/langchain.agents.agent_types.AgentType.html
+from langchain.agents.agent_types import AgentType
+
+https://python.langchain.com/api_reference/experimental/agents/langchain_experimental.agents.agent_toolkits.pandas.base.create_pandas_dataframe_agent.html#langchain_experimental.agents.agent_toolkits.pandas.base.create_pandas_dataframe_agent
+from langchain_experimental.agents import create_pandas_dataframe_agent
