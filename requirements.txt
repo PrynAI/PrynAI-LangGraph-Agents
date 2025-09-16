@@ -56,3 +56,9 @@ Pandas
 
 #Tabulate :0.9.0
 tabulate
+
+#Anthropic : 0.67.0
+anthropic
+
+#MCP: 1.14.0
+mcp
